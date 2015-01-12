@@ -1,0 +1,4 @@
+if (test != null)
+  System.out.println("not null");
+else
+  System.out.printlin("dreaded null pointer!!");
